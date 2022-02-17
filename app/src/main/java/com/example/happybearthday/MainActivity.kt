@@ -5,7 +5,7 @@ import android.os.Bundle
 
 
 /**
- * Gigas pirveli gakvetili
+ * Gigas pirveli gakvetili dev
  */
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
